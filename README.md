@@ -31,21 +31,20 @@
 
 ### 🕸️ Web / Pentest
 
-| | |
-|---|---|
-| <img src="https://portswigger.net/favicon.ico" width="20" /> | [PortSwigger Academy](https://portswigger.net/web-security) |
-| <img src="https://pwn.college/favicon.ico" width="20" /> | [pwn.college](https://pwn.college/) |
-| <img src="https://www.vulnhub.com/favicon.ico" width="20" /> | [VulnHub](https://www.vulnhub.com/) |
-| <img src="https://tryhackme.com/favicon.ico" width="20" /> | [TryHackMe](https://tryhackme.com/) |
-| <img src="https://www.hackthebox.com/favicon.ico" width="20" /> | [Hack The Box](https://www.hackthebox.com/) |
-| <img src="https://picoctf.org/img/favicon.png" width="20" /> | [picoCTF](https://picoctf.org/) |
+| Platform |
+|---|
+| [PortSwigger Web Security Academy](https://portswigger.net/web-security) |
+| [TryHackMe](https://tryhackme.com/) |
+| [Hack The Box](https://www.hackthebox.com/) |
+| [VulnHub](https://www.vulnhub.com/) |
+| [picoCTF](https://picoctf.org/) |
 
 ### 🔧 Reverse Engineering / Binary
 
-| | |
-|---|---|
-| <img src="https://crackmes.one/favicon.ico" width="20" /> | [Crackmes.one](https://crackmes.one/) |
-| <img src="https://pwn.college/favicon.ico" width="20" /> | [pwn.college](https://pwn.college/) |
-| <img src="https://tryhackme.com/favicon.ico" width="20" /> | [TryHackMe](https://tryhackme.com/) |
-| <img src="https://www.hackthebox.com/favicon.ico" width="20" /> | [Hack The Box](https://www.hackthebox.com/) |
-| <img src="https://picoctf.org/img/favicon.png" width="20" /> | [picoCTF](https://picoctf.org/) |
+| Platform |
+|---|
+| [Crackmes.one](https://crackmes.one/) |
+| [pwn.college](https://pwn.college/) |
+| [TryHackMe](https://tryhackme.com/) |
+| [Hack The Box](https://www.hackthebox.com/) |
+| [picoCTF](https://picoctf.org/) |
