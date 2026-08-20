@@ -4,7 +4,7 @@
 - 🌐 Web Exploitation
 - 🔒 Network Security
 - 🔧 Reverse Engineering
-- 🔍 Recon
+
 
 ## My Stack
 **Language:**`C`, `Python`, `Bash`
