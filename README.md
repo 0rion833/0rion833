@@ -1,16 +1,21 @@
-## Hi there 👋
+# 0rion
 
-<!--
-**0rion833/0rion833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pentester
 
-Here are some ideas to get you started:
+- Bug Bounty
+- Web Exploitation
+- Network Security
+- Reverse Engineering
+- Recon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages
+
+`C` `Python` `Bash`
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/rvz3xj4yqHAAAAAd/ghoul-ghpul.gif" width="600" />
+</p>
