@@ -45,6 +45,15 @@
 |---|
 | [Crackmes.one](https://crackmes.one/) |
 | [pwn.college](https://pwn.college/) |
-| [TryHackMe](https://tryhackme.com/) |
-| [Hack The Box](https://www.hackthebox.com/) |
-| [picoCTF](https://picoctf.org/) |
+
+## 🧠 Programming Languages
+
+### C
+| [Learn C](https://learnc.net) | [Exercism C Track](https://exercism.org/tracks/c) |
+
+### Python
+| [Automate the Boring Stuff](https://automatetheboringstuff.com) | [Exercism Python Track](https://exercism.org/tracks/python) |
+
+### Bash
+| [Learn Shell](https://learnshell.org) | [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) |
+
