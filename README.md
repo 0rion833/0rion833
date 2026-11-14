@@ -1,5 +1,3 @@
-👾 Developer
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30" /> Software Developer
 
 Language
@@ -12,11 +10,6 @@ Language
     <img src="https://cdn.simpleicons.org/rust/DEA584" width="40" />
   </a>
 </p>Environment
-
-<p>
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://cdn.simpleicons.org/windows11/0078D4" width="35" />
-  </a>
   <a href="https://zed.dev/">
     <img src="https://cdn.simpleicons.org/zed/FFFFFF" width="35" />
   </a>
