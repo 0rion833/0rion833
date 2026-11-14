@@ -1,28 +1,40 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30" /> Pentester
+👾 Developer
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="20" /> Bug Bounty
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20" /> Web Exploitation
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> Network Security
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="20" /> Reverse Engineering
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30" /> Software Developer
 
-
-## Language
+Language
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/120px-C_Programming_Language.svg.png" width="40" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/120px-Bash_Logo_Colored.svg.png" width="40" />
-</p>
-
-## Environment
+  <a href="https://en.cppreference.com/w/c/language">
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" />
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://cdn.simpleicons.org/rust/DEA584" width="40" />
+  </a>
+</p>Environment
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="35" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" width="35" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/120px-Ghidra_logo.svg.png" width="35" />
-  
-</p>
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://cdn.simpleicons.org/windows11/0078D4" width="35" />
+  </a>
+  <a href="https://zed.dev/">
+    <img src="https://cdn.simpleicons.org/zed/FFFFFF" width="35" />
+  </a>
+</p>Favorite AI
 
-<p align="center">
+<p>
+  <a href="https://claude.ai/">
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" width="35" />
+  </a>
+  <a href="https://chatgpt.com/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="35" />
+  </a>
+  <a href="https://www.deepseek.com/">
+    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="35" />
+  </a>
+  <a href="https://www.perplexity.ai/">
+    <img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="35" />
+  </a>
+</p><p align="center">
   <img src="https://media1.tenor.com/m/rvz3xj4yqHAAAAAd/ghoul-ghpul.gif" width="600" />
 </p>
